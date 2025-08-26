@@ -1,6 +1,6 @@
 ##Soy Mateo Serrano
-Estudio Ingenieria de Software en FIUBA.
-En mis tiempos libres desarrollo juegos indies.
+- Estudio Ingenieria de Software en FIUBA.
+- En mis tiempos libres desarrollo juegos indies.
 <!--
 **mateo-serrano-dev/mateo-serrano-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
