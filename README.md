@@ -6,6 +6,7 @@ Computer Engineering student at FIUBA (Universidad de Buenos Aires), building fu
 - 🛠️ Working mainly with **Go, Python, FastAPI, SvelteKit and PostgreSQL**
 - 🌱 Currently learning **Java / Spring Boot**
 - 💼 Looking for junior backend / full-stack opportunities
+- 👾 Gamedev hobbyist! Godot/GDScript, top 10% at GMTK Game Jam 2025
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/mateo-serrano-coronel)
 
 ---
