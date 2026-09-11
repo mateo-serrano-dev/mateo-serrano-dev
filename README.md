@@ -12,7 +12,7 @@ Computer Engineering student at FIUBA (Universidad de Buenos Aires), building fu
 
 ## 🔧 Stack
 
-`Go` · `Python` · `FastAPI` · `SvelteKit` · `PostgreSQL` · `Java (learning)` · `Spring Boot (learning)`
+`Go` · `Python` · `FastAPI` · `SvelteKit` · `MySQL` · `Java (learning)` · `Spring Boot (learning)`
 
 ---
 
