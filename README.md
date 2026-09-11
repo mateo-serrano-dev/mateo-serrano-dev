@@ -3,7 +3,7 @@
 Computer Engineering student at FIUBA (Universidad de Buenos Aires), building full-stack projects while I look for my first role in software development.
 
 - 🎓 Studying Computer Engineering (Ingeniería en Informática) at FIUBA
-- 🛠️ Working mainly with **Go, Python, FastAPI, SvelteKit and PostgreSQL**
+- 🛠️ Working mainly with **Go, Python, FastAPI, SvelteKit and MySQL**
 - 🌱 Currently learning **Java / Spring Boot**
 - 💼 Looking for junior backend / full-stack opportunities
 - 👾 Gamedev hobbyist! Godot/GDScript, top 10% at GMTK Game Jam 2025
