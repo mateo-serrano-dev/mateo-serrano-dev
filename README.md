@@ -1,17 +1,37 @@
-##Soy Mateo Serrano
-- Estudio Ingenieria de Software en FIUBA.
-- En mis tiempos libres desarrollo juegos indies.
+# Hi, I'm Mateo 👋
+
+Computer Engineering student at FIUBA (Universidad de Buenos Aires), building full-stack projects while I look for my first role in software development.
+
+- 🎓 Studying Computer Engineering (Ingeniería en Informática) at FIUBA
+- 🛠️ Working mainly with **Go, Python, FastAPI, SvelteKit and PostgreSQL**
+- 🌱 Currently learning **Java / Spring Boot**
+- 💼 Looking for junior backend / full-stack opportunities
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/mateo-serrano-coronel)
+
+---
+
+## 🔧 Stack
+
+`Go` · `Python` · `FastAPI` · `SvelteKit` · `PostgreSQL` · `Java (learning)` · `Spring Boot (learning)`
+
+---
+
+## 📌 Featured projects
+
+### [Graph algorithms in Go](https://github.com/mateo-serrano-dev/AlgoritmosGOGOATS) 
+University coursework implementing graph algorithms from scratch in Go: Dijkstra, MST, cycle detection, articulation points, and a routing project over KML map data. 
+
+Implementations of diverse abstract data types such as LinkedList, HashMap, Heap, BinarySearchTree, and more.
+
 <!--
-**mateo-serrano-dev/mateo-serrano-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [NovelSoftware](https://github.com/mateo-serrano-dev/REPO_NAME_HER)
+A writing management platform for authors, currently a frontend prototype (SvelteKit) exploring branching-narrative editing. Backend (FastAPI + PostgreSQL) planned for a later phase, once the editor's core interactions are validated.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### [Project name here](https://github.com/mateo-serrano-dev/REPO_NAME_HERE)
+One line describing what it does and what problem it solves.
 -->
+---
+
+## 📈 GitHub stats
+
+![Tuca's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateo-serrano-dev&show_icons=true&theme=default)
